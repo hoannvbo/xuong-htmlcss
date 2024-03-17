@@ -8,7 +8,7 @@ export default defineConfig({
             input: {
                 main: resolve(__dirname, "index.html"),
                 shop: resolve(__dirname, "./shop.html"),
-                detail: resolve(__dirname, "./detail-product.html"),
+                detail: resolve(__dirname, "./datail-product.html"),
                 cart: resolve(__dirname, "./cart.html"),
                 checkout: resolve(__dirname, "./checkout.html"),
                 pay: resolve(__dirname, "./pay-product.html"),
